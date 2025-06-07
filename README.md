@@ -1,7 +1,7 @@
 # Inhatc_3_1_AI_MiniProject
 # 의료 보험료 예측 모델 (Insurance Charges Prediction)
 
-본 프로젝트는 미국 의료 보험료 데이터(`insurance.csv`)를 활용하여, 개인의 나이, 성별, BMI, 자녀 수, 흡연 여부, 지역 등의 정보를 바탕으로 의료 보험료(`charges`)를 예측하는 회귀 모델을 구현한 것입니다.
+본 프로젝트는 미국 의료 보험료 데이터(`insurance.csv`)를 활용하여, 개인의 나이, 성별, BMI, 자녀 수, 흡연 여부, 지역 등의 정보를 바탕으로 의료 보험료(`charges`)를 예측하는 회귀 모델을 구현하였습니다.
 
 ---
 
