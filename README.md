@@ -124,6 +124,9 @@ model = Sequential([
     Dense(1)
 ])
 ```
+
+---
+
 ## 최종 성능 
  **Best Peroformance(MSE): 0.16619418561458588** 
 
